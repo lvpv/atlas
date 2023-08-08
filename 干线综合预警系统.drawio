@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T11:11:47.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="aWHyLYdL9rfYNrMexiFg" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T11:11:56.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S1jrX84KLL2iMMk8MBDJ" version="21.6.2" type="github">
   <diagram name="第 1 页" id="O3S1kndeIeVUOSqr3HUG">
     <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="20j8uFJAiAJIcvfE-GCa-70" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="510" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4WVxxDlwaRUnIARhrgMZ-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="4WVxxDlwaRUnIARhrgMZ-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="564" y="700" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="20j8uFJAiAJIcvfE-GCa-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" parent="4WVxxDlwaRUnIARhrgMZ-3" vertex="1">
@@ -151,13 +151,13 @@
         <mxCell id="20j8uFJAiAJIcvfE-GCa-39" value="MongoDB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=仿宋;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="4WVxxDlwaRUnIARhrgMZ-3" vertex="1">
           <mxGeometry x="85" y="10" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4WVxxDlwaRUnIARhrgMZ-1" value="Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=仿宋;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="4WVxxDlwaRUnIARhrgMZ-3">
+        <mxCell id="4WVxxDlwaRUnIARhrgMZ-1" value="Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=仿宋;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4WVxxDlwaRUnIARhrgMZ-3" vertex="1">
           <mxGeometry x="155" y="10" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4WVxxDlwaRUnIARhrgMZ-4" value="日志记录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4WVxxDlwaRUnIARhrgMZ-4" value="日志记录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="404" y="550" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4WVxxDlwaRUnIARhrgMZ-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="4WVxxDlwaRUnIARhrgMZ-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="450" y="478" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
