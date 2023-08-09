@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T08:20:49.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QoP-7e_UTReCz2k7XZUf" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T08:24:53.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SIMDanZLJamWBpUejhln" version="21.6.6" type="github">
   <diagram name="第 1 页" id="O3S1kndeIeVUOSqr3HUG">
     <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,26 +139,23 @@
         <mxCell id="20j8uFJAiAJIcvfE-GCa-70" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="672" y="1178" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4WVxxDlwaRUnIARhrgMZ-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="726" y="948" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="20j8uFJAiAJIcvfE-GCa-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" parent="4WVxxDlwaRUnIARhrgMZ-3" vertex="1">
-          <mxGeometry width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="20j8uFJAiAJIcvfE-GCa-38" value="MySQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=仿宋;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="4WVxxDlwaRUnIARhrgMZ-3" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="20j8uFJAiAJIcvfE-GCa-39" value="MongoDB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=仿宋;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="4WVxxDlwaRUnIARhrgMZ-3" vertex="1">
-          <mxGeometry x="85" y="10" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4WVxxDlwaRUnIARhrgMZ-1" value="Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=仿宋;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4WVxxDlwaRUnIARhrgMZ-3" vertex="1">
-          <mxGeometry x="155" y="10" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="4WVxxDlwaRUnIARhrgMZ-4" value="日志记录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="566" y="798" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4WVxxDlwaRUnIARhrgMZ-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="612" y="726" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="20j8uFJAiAJIcvfE-GCa-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="726" y="948" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20j8uFJAiAJIcvfE-GCa-38" value="MySQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=仿宋;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="736" y="958" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0vHUhPUmBHyyZOCESIgX-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="890" y="976" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="0vHUhPUmBHyyZOCESIgX-3" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="811" y="971" width="60" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
