@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T05:13:55.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="2SPCnEZdRsz7YX79q8zd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T07:54:07.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nGsm9ZJLNqrZ5NRqCY5D" version="21.6.6" type="github">
   <diagram name="第 1 页" id="w53rVpv-0Bljx8trRUmC">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UmqbzG80Im-ruK181eQt-31" value="信息收集模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="449" width="520" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-34" value="数据来源配置模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="173" y="359" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-35" value="数据来源配置模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="343" y="359" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-36" value="数据来源配置模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="516.5" y="359" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-41" value="数据源信息表" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="214" y="605" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-42" value="数据源分类表" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="304" y="602.5" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-43" value="数据源配置表" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="394" y="600" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-44" value="数据分类表" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480.5" y="600" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-45" value="数据表" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="564" y="605" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UmqbzG80Im-ruK181eQt-47" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9B2;strokeColor=none;fontColor=#000000;fillStyle=solid;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="740" width="520" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
