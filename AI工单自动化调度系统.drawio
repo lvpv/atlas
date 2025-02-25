@@ -1,9 +1,104 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="fc2qWwKT_eQD3knXw0V4">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4X-aNIErhXsaIUGD21-c-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-2" target="4X-aNIErhXsaIUGD21-c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-6" value="IVR业务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X-aNIErhXsaIUGD21-c-5">
+          <mxGeometry x="-0.2" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-2" value="1183166值机电话" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-3" target="4X-aNIErhXsaIUGD21-c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-3" value="客户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="40" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-4" target="4X-aNIErhXsaIUGD21-c-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-4" value="虚拟号码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-8" target="4X-aNIErhXsaIUGD21-c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-16" value="输出电话语音文本识别结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X-aNIErhXsaIUGD21-c-13">
+          <mxGeometry x="-0.36" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-8" value="AI语音服务平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="350" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-12" target="4X-aNIErhXsaIUGD21-c-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-12" target="4X-aNIErhXsaIUGD21-c-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-18" value="数据处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X-aNIErhXsaIUGD21-c-17">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-12" value="AI工单自动化调度系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="440" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="370" as="targetPoint" />
+            <mxPoint x="125" y="570" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="125" y="610" />
+              <mxPoint x="551" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-34" value="派发工单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X-aNIErhXsaIUGD21-c-33">
+          <mxGeometry x="-0.2805" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-14" value="钉钉氚云平台" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="530" width="305" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-20" target="4X-aNIErhXsaIUGD21-c-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-22" value="电话回访" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X-aNIErhXsaIUGD21-c-21">
+          <mxGeometry x="-0.4211" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X-aNIErhXsaIUGD21-c-20" target="4X-aNIErhXsaIUGD21-c-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="335" />
+              <mxPoint x="410" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-28" value="回单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X-aNIErhXsaIUGD21-c-27">
+          <mxGeometry x="-0.1099" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X-aNIErhXsaIUGD21-c-20" value="维护人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="210" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
