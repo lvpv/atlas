@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="第 1 页" id="9NlVZiYUtAFE3IQBLCpG">
-    <mxGraphModel dx="2066" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="880" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-3" value="终端设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-5" value="端口RFID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="240" y="885" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-6" value="井盖RFID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="364" y="885" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-7" value="杆路RFID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="480" y="885" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-8" value="其他RFID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="600" y="885" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="800" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tCsIqbcGfOJnxjZ4Wuu-10" value="信息采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
