@@ -27,7 +27,7 @@
             <mxPoint x="550" y="252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rEXiQmMtN7h1plJjTMW-9" value="FRID阅读器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-9" value="FRID阅读器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="409" y="187" width="70" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.061;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
