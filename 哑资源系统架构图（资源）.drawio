@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8rEXiQmMtN7h1plJjTMW-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="114" y="160" width="600" height="190" as="geometry" />
+          <mxGeometry x="130" y="160" width="560" height="180" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="191" width="180" height="130" as="geometry" />
@@ -43,12 +43,12 @@
           <mxGeometry x="559" y="198" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-12" value="资源系统&lt;div&gt;（数据对比）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="480" y="457" width="219" height="70" as="geometry" />
+          <mxGeometry x="480" y="459" width="219" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="618.5" y="317" as="sourcePoint" />
-            <mxPoint x="619" y="450" as="targetPoint" />
+            <mxPoint x="618.5" y="318" as="sourcePoint" />
+            <mxPoint x="619" y="451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-17" value="数据采集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
@@ -61,55 +61,55 @@
           <mxGeometry x="479" y="253" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-21" value="工单系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="452" width="180" height="80" as="geometry" />
+          <mxGeometry x="140" y="454" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="474" y="484" as="sourcePoint" />
-            <mxPoint x="324" y="484" as="targetPoint" />
+            <mxPoint x="474" y="486" as="sourcePoint" />
+            <mxPoint x="324" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="214" y="444" as="sourcePoint" />
-            <mxPoint x="214" y="325" as="targetPoint" />
+            <mxPoint x="214" y="445" as="sourcePoint" />
+            <mxPoint x="214" y="326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-27" value="数据推送" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="575" y="340" width="60" height="80" as="geometry" />
+          <mxGeometry x="575" y="341" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="635" y="450" as="sourcePoint" />
-            <mxPoint x="635" y="321" as="targetPoint" />
+            <mxPoint x="635" y="451" as="sourcePoint" />
+            <mxPoint x="635" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-29" value="数据获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="619" y="340" width="60" height="80" as="geometry" />
+          <mxGeometry x="619" y="341" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="494" as="sourcePoint" />
-            <mxPoint x="470" y="494" as="targetPoint" />
+            <mxPoint x="330" y="496" as="sourcePoint" />
+            <mxPoint x="470" y="496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-31" value="修改资源信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="340" y="490" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="492" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-32" value="现场确认" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="170" y="353" width="60" height="70" as="geometry" />
+          <mxGeometry x="170" y="354" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-34" value="下发资源信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="340" y="452" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="454" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="223" y="323" as="sourcePoint" />
-            <mxPoint x="224" y="450" as="targetPoint" />
+            <mxPoint x="223" y="324" as="sourcePoint" />
+            <mxPoint x="224" y="451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-37" value="回单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="203" y="350" width="60" height="70" as="geometry" />
+          <mxGeometry x="203" y="351" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
