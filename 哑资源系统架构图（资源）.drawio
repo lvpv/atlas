@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="GFw6LYALjXpLtYbR-Xg0">
-    <mxGraphModel dx="786" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="149" y="190" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-4" value="RFID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-5" value="RFID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-6" value="RFID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-7" value="RFID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-8" value="现场资源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207" y="193" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8rEXiQmMtN7h1plJjTMW-9" target="8rEXiQmMtN7h1plJjTMW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-9" value="FRID阅读器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="409" y="180" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.061;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="252.56936628628569" as="sourcePoint" />
+            <mxPoint x="404.97400000000005" y="253.04999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-11" value="物联网平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="559" y="185" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-12" value="资源系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="419" y="410" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="618.5" y="310" as="sourcePoint" />
+            <mxPoint x="619" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-14" value="数据 推送" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-17" value="数据采集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="319" y="223" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-18" value="4G/5G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="478" y="211" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-19" value="NB-IOT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="475" y="241" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
