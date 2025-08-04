@@ -62,8 +62,8 @@
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="474" y="480" as="sourcePoint" />
-            <mxPoint x="324" y="480" as="targetPoint" />
+            <mxPoint x="474" y="484" as="sourcePoint" />
+            <mxPoint x="324" y="484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
@@ -86,15 +86,18 @@
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="500" as="sourcePoint" />
-            <mxPoint x="470" y="500" as="targetPoint" />
+            <mxPoint x="330" y="494" as="sourcePoint" />
+            <mxPoint x="470" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-31" value="修改资源信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="330" y="497" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8rEXiQmMtN7h1plJjTMW-32" value="现场确认" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8rEXiQmMtN7h1plJjTMW-34" value="下发资源信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="340" y="452" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
