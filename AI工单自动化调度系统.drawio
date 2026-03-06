@@ -117,10 +117,10 @@
         <mxCell id="4X-aNIErhXsaIUGD21-c-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PC管理端" vertex="1">
           <mxGeometry height="50" width="100" x="190" y="767.5" as="geometry" />
         </mxCell>
-        <mxCell id="4X-aNIErhXsaIUGD21-c-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="APAAS数据大屏" vertex="1">
+        <mxCell id="4X-aNIErhXsaIUGD21-c-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="数据大屏" vertex="1">
           <mxGeometry height="50" width="120" x="380" y="767.5" as="geometry" />
         </mxCell>
-        <mxCell id="4X-aNIErhXsaIUGD21-c-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="小程序" vertex="1">
+        <mxCell id="4X-aNIErhXsaIUGD21-c-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="APP应用" vertex="1">
           <mxGeometry height="50" width="100" x="590" y="767.5" as="geometry" />
         </mxCell>
         <mxCell id="4X-aNIErhXsaIUGD21-c-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="Nginx(接入网关、静态资源)" vertex="1">
@@ -129,16 +129,16 @@
         <mxCell id="4X-aNIErhXsaIUGD21-c-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="" vertex="1">
           <mxGeometry height="170" width="430" x="140" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="4X-aNIErhXsaIUGD21-c-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="AI语音模块" vertex="1">
+        <mxCell id="4X-aNIErhXsaIUGD21-c-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="基础数据管理" vertex="1">
           <mxGeometry height="50" width="120" x="160" y="890" as="geometry" />
         </mxCell>
-        <mxCell id="4X-aNIErhXsaIUGD21-c-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="工单模块" vertex="1">
+        <mxCell id="4X-aNIErhXsaIUGD21-c-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:仿宋_GB2312;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;在网作业管理&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="295" y="890" as="geometry" />
         </mxCell>
-        <mxCell id="4X-aNIErhXsaIUGD21-c-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="系统管理模块" vertex="1">
+        <mxCell id="4X-aNIErhXsaIUGD21-c-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="数据稽核模块" vertex="1">
           <mxGeometry height="46" width="120" x="293" y="951" as="geometry" />
         </mxCell>
-        <mxCell id="4X-aNIErhXsaIUGD21-c-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="消息提醒模块" vertex="1">
+        <mxCell id="4X-aNIErhXsaIUGD21-c-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:仿宋_GB2312;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;应急指挥调度&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="47" width="120" x="160" y="950" as="geometry" />
         </mxCell>
         <mxCell id="4X-aNIErhXsaIUGD21-c-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" value="" vertex="1">
@@ -219,7 +219,7 @@
         <mxCell id="4X-aNIErhXsaIUGD21-c-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DCN网络" vertex="1">
           <mxGeometry height="40" width="110" x="592" y="1253" as="geometry" />
         </mxCell>
-        <mxCell id="-fBVtS2RoCw09fAn3Mkb-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="数据预警模块" vertex="1">
+        <mxCell id="-fBVtS2RoCw09fAn3Mkb-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:仿宋_GB2312;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;综合预警中心&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="430" y="890" as="geometry" />
         </mxCell>
         <mxCell id="-fBVtS2RoCw09fAn3Mkb-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="工单数据处理" vertex="1">
@@ -330,7 +330,7 @@
         <mxCell id="-fBVtS2RoCw09fAn3Mkb-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="写入已关闭工单" vertex="1">
           <mxGeometry height="40" width="125" x="479" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="-fBVtS2RoCw09fAn3Mkb-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="车辆系统" vertex="1">
+        <mxCell id="-fBVtS2RoCw09fAn3Mkb-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="工单系统" vertex="1">
           <mxGeometry height="30" width="60" x="619" y="1820" as="geometry" />
         </mxCell>
         <mxCell id="-fBVtS2RoCw09fAn3Mkb-48" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="维护平台" vertex="1">
@@ -357,13 +357,13 @@
         <mxCell id="_9u2cvtoZSCxlwE1ztmI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开放API接口" vertex="1">
           <mxGeometry height="55" width="110" x="580" y="2157.5" as="geometry" />
         </mxCell>
-        <mxCell id="_9u2cvtoZSCxlwE1ztmI-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="氚云数据集成" vertex="1">
+        <mxCell id="_9u2cvtoZSCxlwE1ztmI-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="外部数据模块" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="1005" as="geometry" />
         </mxCell>
-        <mxCell id="_9u2cvtoZSCxlwE1ztmI-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="DCOOS数据接入" vertex="1">
+        <mxCell id="_9u2cvtoZSCxlwE1ztmI-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:仿宋_GB2312;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;数据可视化&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="38" width="120" x="293" y="1005" as="geometry" />
         </mxCell>
-        <mxCell id="_9u2cvtoZSCxlwE1ztmI-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="维护成本" vertex="1">
+        <mxCell id="_9u2cvtoZSCxlwE1ztmI-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="系统管理模块" vertex="1">
           <mxGeometry height="37" width="120" x="430" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="_9u2cvtoZSCxlwE1ztmI-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI服务接入" vertex="1">
